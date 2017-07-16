@@ -63,6 +63,7 @@ header .r-label{
 /*main*/
 main{
     margin-top: 47.5px;
+    margin-bottom: 75px;
 }
 main .notice{
     background-color: #B9E9F5;
