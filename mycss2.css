@@ -12,6 +12,7 @@ body{
     margin: 0;
     color: #FFFFFF;
     overflow-x: hidden;
+    background-color: #34BEDE;
 }
 
 /*header*/
@@ -207,4 +208,6 @@ footer .bb2{
     height: 40px;
     border-radius: 0;
     background-color: #FBB435;
+    color: #FFFFFF;
+    font-size: 1rem;
 }

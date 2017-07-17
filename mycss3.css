@@ -92,6 +92,11 @@ main .p5{
     border-bottom-width: 1px;
     border-bottom-color: #DDD;
 }
+main span{
+    font-size: 0.7rem;
+    color: #A6A6A6;
+    float: right;
+}
 /*footer*/
 footer{
     padding: 7px;
